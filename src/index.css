@@ -1,0 +1,11 @@
+/* tailwind  index.css file */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: Roboto;
+}
+
+
+
